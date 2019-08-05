@@ -23,13 +23,16 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16.8.6"
+    "react": "^16.8.6",
+    "supercluster": "^6.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/runtime": "^7.3.1",
+    "@types/geojson": "^7946.0.7",
     "@types/jest": "^23.3.13",
     "@types/react": "^16.7.22",
+    "@types/supercluster": "^5.0.1",
     "cross-env": "^5.2.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
