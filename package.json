@@ -34,7 +34,7 @@
     "@types/react": "^16.7.22",
     "@types/supercluster": "^5.0.1",
     "cross-env": "^5.2.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "2.0",
     "react": "^16.8.6",
     "react-scripts": "^3.0.1",
     "rollup": "^1.1.2",
