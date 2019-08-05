@@ -2,7 +2,7 @@
 
 [![NPM](https://img.shields.io/npm/v/react-supercluster.svg)](https://www.npmjs.com/package/react-supercluster)
 
-A react hook for mapbox&#x27;s supercluster library
+> A react hook for mapbox's [supercluster](https://github.com/mapbox/supercluster) library
 
 ```tsx
 const { clusters } = useSupercluster({
@@ -12,7 +12,9 @@ const { clusters } = useSupercluster({
 });
 ```
 
-Easy right? 😎
+Easy, right? 😎
+
+![patlux github io_react-supercluster_](https://user-images.githubusercontent.com/4481570/62493318-5342c780-b7c0-11e9-84ed-e05f3f2f5cb1.png)
 
 ## Install
 
@@ -36,7 +38,7 @@ If you use typescript, also install the type definitions `@types/supercluster`.
 
 ## Usage
 
-You can find a working example in the folder `example/`.
+You can find a working example in the folder `example/`. The example uses [pigeon-map](https://github.com/mariusandra/pigeon-maps) for demonstration purpose, but you can use any map library you want.
 
 Say you have a list of items:
 
