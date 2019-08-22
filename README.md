@@ -16,6 +16,8 @@ Easy, right? 😎
 
 ![patlux github io_react-supercluster_](https://user-images.githubusercontent.com/4481570/62493318-5342c780-b7c0-11e9-84ed-e05f3f2f5cb1.png)
 
+[**Live Example**](https://patlux.github.io/react-supercluster/)
+
 ## Install
 
 You need to have React [16.8.0](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html) or later installed to use this library.
