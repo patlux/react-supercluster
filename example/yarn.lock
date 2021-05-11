@@ -4477,9 +4477,9 @@ hmac-drbg@^1.0.0:
     minimalistic-crypto-utils "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -5739,11 +5739,6 @@ jsx-ast-utils@^2.0.1:
   dependencies:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
-
-kdbush@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/kdbush/-/kdbush-3.0.0.tgz#f8484794d47004cc2d85ed3a79353dbe0abc2bf0"
-  integrity sha512-hRkd6/XW4HTsA9vjVpY9tuXJYLSlelnkTmVFu4M9/7MIYQtFcHpbugAU7UbOfjOiVSVYl2fqgBuJ32JUmRo5Ew==
 
 killable@^1.0.0:
   version "1.0.1"
@@ -8021,12 +8016,10 @@ react-scripts@^3.0.1:
     fsevents "2.0.6"
 
 "react-supercluster@link:..":
-  version "0.0.0"
-  uid ""
+  version "1.0.0"
 
 "react@link:../node_modules/react":
   version "0.0.0"
-  uid ""
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
@@ -9012,13 +9005,6 @@ stylehacks@^4.0.0:
     browserslist "^4.0.0"
     postcss "^7.0.0"
     postcss-selector-parser "^3.0.0"
-
-supercluster@^6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/supercluster/-/supercluster-6.0.2.tgz#aa2eaae185ef97872f388c683ec29f6991721ee3"
-  integrity sha512-aa0v2HURjBTOpbcknilcfxGDuArM8khklKSmZ/T8ZXL0BuRwb5aRw95lz+2bmWpFvCXDX/+FzqHxmg0TIaJErw==
-  dependencies:
-    kdbush "^3.0.0"
 
 supports-color@^2.0.0:
   version "2.0.0"
